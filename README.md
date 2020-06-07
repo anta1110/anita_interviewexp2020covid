@@ -21,3 +21,6 @@ Question 1:-
        hash
        internal working of hash map
        java collections
+       
+  https://ideone.com/JfuOJg - to implement a stack
+  https://ideone.com/h2zuvg - find the second largest element
